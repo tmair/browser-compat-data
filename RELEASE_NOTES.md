@@ -1,5 +1,20 @@
 # @mdn/browser-compat-data release notes
 
+## [v5.7.4](https://github.com/mdn/browser-compat-data/releases/tag/v5.7.4)
+
+March 17, 2025
+
+### Additions
+
+- `api.GPUSupportedFeatures.feature_subgroups` ([#26220](https://github.com/mdn/browser-compat-data/pull/26220))
+
+### Statistics
+
+- 5 contributors have changed 5 files with 66 additions and 23 deletions in 6 commits ([`v5.7.3...v5.7.4`](https://github.com/mdn/browser-compat-data/compare/v5.7.3...v5.7.4))
+- 17,085 total features
+- 1,133 total contributors
+- 5,139 total stargazers
+
 ## [v5.7.3](https://github.com/mdn/browser-compat-data/releases/tag/v5.7.3)
 
 March 14, 2025
